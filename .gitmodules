@@ -1,0 +1,3 @@
+[submodule "spring-blog"]
+	path = spring-blog
+	url = https://github.com/mfauzirh/spring-blog.git
